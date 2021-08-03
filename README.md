@@ -1,2 +1,0 @@
-# repowithR
-Git and R
